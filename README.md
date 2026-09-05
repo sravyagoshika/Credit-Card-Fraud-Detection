@@ -521,13 +521,3 @@ The Credit Card Fraud Detection System demonstrates the application of Machine L
 The project implements the major stages of a Machine Learning lifecycle, including data preprocessing, exploratory data analysis, feature engineering, class imbalance handling, model training, hyperparameter tuning, evaluation, threshold tuning, explainability, and deployment.
 
 The final system combines a FastAPI backend with a Streamlit interface to provide an interactive fraud prediction application.
-
-👩‍💻 Author
-
-Sravya
-
-B.Tech - Computer Science Engineering
-
-🔗 Project Repository
-
-Credit Card Fraud Detection on GitHub
