@@ -1,0 +1,12 @@
+amount
+customer_age
+previous_transactions
+transaction_hour
+transaction_day
+transaction_month
+transaction_day_of_week
+is_weekend
+is_night
+customer_avg_amount
+amount_deviation
+amount_ratio
